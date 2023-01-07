@@ -9,6 +9,7 @@
   <div class="row">
     <div class="col-sm-6 bg-dark text-white">
       <h1>Page Index</h1>
+      <h1>Page For Server</h1>
       <h2>About Me</h2>
       
     </div>
